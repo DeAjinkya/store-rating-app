@@ -24,7 +24,7 @@ Create a `.env` file in the backend root:
 ```env
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=root
+DB_PASSWORD=your_password
 DB_NAME=store_rating
 JWT_SECRET=your_secret_key
 PORT=5000
